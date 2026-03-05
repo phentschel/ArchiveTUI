@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlQtE5qxwBk=",
+  "success": true,
+  "projectFilePath": "/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Cli/ArchiveTUI.Cli.csproj",
+  "expectedPackageFiles": [
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/microsoft.data.sqlite/8.0.8/microsoft.data.sqlite.8.0.8.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/microsoft.data.sqlite.core/8.0.8/microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/npgsql/8.0.4/npgsql.8.0.4.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/nstack.core/1.1.1/nstack.core.1.1.1.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/system.codedom/9.0.4/system.codedom.9.0.4.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/system.management/9.0.4/system.management.9.0.4.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/HeinzPatrick.Hentschel/.nuget/packages/terminal.gui/1.19.0/terminal.gui.1.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}
