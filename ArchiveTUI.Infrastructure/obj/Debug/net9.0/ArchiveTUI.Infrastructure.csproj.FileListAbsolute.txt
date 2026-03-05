@@ -1,0 +1,35 @@
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Infrastructure.deps.json
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Infrastructure.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Infrastructure.pdb
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Application.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Application.pdb
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Domain.pdb
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.csproj.AssemblyReference.cache
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.AssemblyInfoInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.AssemblyInfo.cs
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveT.DF4BFC72.Up2Date
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/refint/ArchiveTUI.Infrastructure.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.pdb
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ref/ArchiveTUI.Infrastructure.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Infrastructure.deps.json
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Infrastructure.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Infrastructure.pdb
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Application.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Application.pdb
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/bin/Debug/net9.0/ArchiveTUI.Domain.pdb
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.csproj.AssemblyReference.cache
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.AssemblyInfoInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.AssemblyInfo.cs
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.sourcelink.json
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveT.DF4BFC72.Up2Date
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/refint/ArchiveTUI.Infrastructure.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ArchiveTUI.Infrastructure.pdb
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Infrastructure/obj/Debug/net9.0/ref/ArchiveTUI.Infrastructure.dll
