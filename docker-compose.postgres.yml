@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: archivetui-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${ARCHIVETUI_DB_NAME:-archivetui}
+      POSTGRES_USER: ${ARCHIVETUI_DB_USER:-archivetui}
+      POSTGRES_PASSWORD: ${ARCHIVETUI_DB_PASSWORD:-changeme}
+    ports:
+      - "5432:5432"
+    volumes:
+      - archivetui_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${ARCHIVETUI_DB_USER:-archivetui} -d ${ARCHIVETUI_DB_NAME:-archivetui}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  archivetui_pgdata:
