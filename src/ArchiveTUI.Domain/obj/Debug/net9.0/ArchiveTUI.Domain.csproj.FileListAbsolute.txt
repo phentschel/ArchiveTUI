@@ -1,0 +1,23 @@
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/bin/Debug/net9.0/ArchiveTUI.Domain.deps.json
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/bin/Debug/net9.0/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/bin/Debug/net9.0/ArchiveTUI.Domain.pdb
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.AssemblyInfoInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.AssemblyInfo.cs
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.csproj.CoreCompileInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/refint/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.pdb
+/Users/HeinzPatrick.Hentschel/Documents/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ref/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/bin/Debug/net9.0/ArchiveTUI.Domain.deps.json
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/bin/Debug/net9.0/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/bin/Debug/net9.0/ArchiveTUI.Domain.pdb
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.AssemblyInfoInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.AssemblyInfo.cs
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.csproj.CoreCompileInputs.cache
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.sourcelink.json
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/refint/ArchiveTUI.Domain.dll
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ArchiveTUI.Domain.pdb
+/Users/HeinzPatrick.Hentschel/Documents/Dokumente – MB-GDW6G4WG3H/ArchiveTUI_v2/src/ArchiveTUI.Domain/obj/Debug/net9.0/ref/ArchiveTUI.Domain.dll
